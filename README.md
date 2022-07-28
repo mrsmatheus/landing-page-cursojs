@@ -1,1 +1,1 @@
-# landing-page-cursojs
+https://landingpageblog.netlify.app/
